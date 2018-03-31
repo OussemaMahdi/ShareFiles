@@ -1,0 +1,175 @@
+c:\users\oussema\documents\visual studio 2010\Projects\Share files\Etiquette\bin\Debug\Etiquette.exe
+c:\users\oussema\documents\visual studio 2010\Projects\Share files\Etiquette\bin\Debug\Etiquette.pdb
+c:\users\oussema\documents\visual studio 2010\Projects\Share files\Etiquette\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\oussema\documents\visual studio 2010\Projects\Share files\Etiquette\obj\x86\Debug\Etiquette.MyLabel.resources
+c:\users\oussema\documents\visual studio 2010\Projects\Share files\Etiquette\obj\x86\Debug\Etiquette.Properties.Resources.resources
+c:\users\oussema\documents\visual studio 2010\Projects\Share files\Etiquette\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\oussema\documents\visual studio 2010\Projects\Share files\Etiquette\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\oussema\documents\visual studio 2010\Projects\Share files\Etiquette\obj\x86\Debug\Etiquette.exe
+c:\users\oussema\documents\visual studio 2010\Projects\Share files\Etiquette\obj\x86\Debug\Etiquette.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\Etiquette\bin\Debug\Etiquette.exe
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\Etiquette\bin\Debug\Etiquette.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\Etiquette\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\Etiquette\obj\x86\Debug\Etiquette.MyLabel.resources
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\Etiquette\obj\x86\Debug\Etiquette.Properties.Resources.resources
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\Etiquette\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\Etiquette\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\Etiquette\obj\x86\Debug\Etiquette.exe
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\Etiquette\obj\x86\Debug\Etiquette.pdb
+C:\Users\DELL\Desktop\final_code_PFE\17-04-2015 V2.0\Share files\Etiquette\bin\Debug\Etiquette.exe
+C:\Users\DELL\Desktop\final_code_PFE\17-04-2015 V2.0\Share files\Etiquette\bin\Debug\Etiquette.pdb
+C:\Users\DELL\Desktop\final_code_PFE\17-04-2015 V2.0\Share files\Etiquette\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\final_code_PFE\17-04-2015 V2.0\Share files\Etiquette\obj\x86\Debug\Etiquette.MyLabel.resources
+C:\Users\DELL\Desktop\final_code_PFE\17-04-2015 V2.0\Share files\Etiquette\obj\x86\Debug\Etiquette.Properties.Resources.resources
+C:\Users\DELL\Desktop\final_code_PFE\17-04-2015 V2.0\Share files\Etiquette\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\DELL\Desktop\final_code_PFE\17-04-2015 V2.0\Share files\Etiquette\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\DELL\Desktop\final_code_PFE\17-04-2015 V2.0\Share files\Etiquette\obj\x86\Debug\Etiquette.exe
+C:\Users\DELL\Desktop\final_code_PFE\17-04-2015 V2.0\Share files\Etiquette\obj\x86\Debug\Etiquette.pdb
+C:\Users\DELL\Desktop\final_code_PFE\Final\Share files\Etiquette\bin\Debug\Etiquette.exe
+C:\Users\DELL\Desktop\final_code_PFE\Final\Share files\Etiquette\bin\Debug\Etiquette.pdb
+C:\Users\DELL\Desktop\final_code_PFE\Final\Share files\Etiquette\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\final_code_PFE\Final\Share files\Etiquette\obj\x86\Debug\Etiquette.MyLabel.resources
+C:\Users\DELL\Desktop\final_code_PFE\Final\Share files\Etiquette\obj\x86\Debug\Etiquette.Properties.Resources.resources
+C:\Users\DELL\Desktop\final_code_PFE\Final\Share files\Etiquette\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\DELL\Desktop\final_code_PFE\Final\Share files\Etiquette\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\DELL\Desktop\final_code_PFE\Final\Share files\Etiquette\obj\x86\Debug\Etiquette.exe
+C:\Users\DELL\Desktop\final_code_PFE\Final\Share files\Etiquette\obj\x86\Debug\Etiquette.pdb
+C:\Users\DELL\Desktop\final_code_PFE\Share files\Etiquette\bin\Debug\Etiquette.exe
+C:\Users\DELL\Desktop\final_code_PFE\Share files\Etiquette\bin\Debug\Etiquette.pdb
+C:\Users\DELL\Desktop\final_code_PFE\Share files\Etiquette\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\final_code_PFE\Share files\Etiquette\obj\x86\Debug\Etiquette.MyLabel.resources
+C:\Users\DELL\Desktop\final_code_PFE\Share files\Etiquette\obj\x86\Debug\Etiquette.Properties.Resources.resources
+C:\Users\DELL\Desktop\final_code_PFE\Share files\Etiquette\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\DELL\Desktop\final_code_PFE\Share files\Etiquette\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\DELL\Desktop\final_code_PFE\Share files\Etiquette\obj\x86\Debug\Etiquette.exe
+C:\Users\DELL\Desktop\final_code_PFE\Share files\Etiquette\obj\x86\Debug\Etiquette.pdb
+C:\Users\Oussema\Desktop\sharefile version final\Share files\Etiquette\bin\Debug\Etiquette.exe
+C:\Users\Oussema\Desktop\sharefile version final\Share files\Etiquette\bin\Debug\Etiquette.pdb
+C:\Users\Oussema\Desktop\sharefile version final\Share files\Etiquette\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Oussema\Desktop\sharefile version final\Share files\Etiquette\obj\x86\Debug\Etiquette.MyLabel.resources
+C:\Users\Oussema\Desktop\sharefile version final\Share files\Etiquette\obj\x86\Debug\Etiquette.Properties.Resources.resources
+C:\Users\Oussema\Desktop\sharefile version final\Share files\Etiquette\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Oussema\Desktop\sharefile version final\Share files\Etiquette\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Oussema\Desktop\sharefile version final\Share files\Etiquette\obj\x86\Debug\Etiquette.exe
+C:\Users\Oussema\Desktop\sharefile version final\Share files\Etiquette\obj\x86\Debug\Etiquette.pdb
+C:\Users\Oussema\Desktop\PFE Tests\sharefile version final\Share files\Etiquette\bin\Debug\Etiquette.exe
+C:\Users\Oussema\Desktop\PFE Tests\sharefile version final\Share files\Etiquette\bin\Debug\Etiquette.pdb
+C:\Users\Oussema\Desktop\PFE Tests\sharefile version final\Share files\Etiquette\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Oussema\Desktop\PFE Tests\sharefile version final\Share files\Etiquette\obj\x86\Debug\Etiquette.MyLabel.resources
+C:\Users\Oussema\Desktop\PFE Tests\sharefile version final\Share files\Etiquette\obj\x86\Debug\Etiquette.Properties.Resources.resources
+C:\Users\Oussema\Desktop\PFE Tests\sharefile version final\Share files\Etiquette\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Oussema\Desktop\PFE Tests\sharefile version final\Share files\Etiquette\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Oussema\Desktop\PFE Tests\sharefile version final\Share files\Etiquette\obj\x86\Debug\Etiquette.exe
+C:\Users\Oussema\Desktop\PFE Tests\sharefile version final\Share files\Etiquette\obj\x86\Debug\Etiquette.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Temp\Share files\Etiquette\bin\Debug\Etiquette.exe
+C:\Users\Oussema\Desktop\PFE Tests\Temp\Share files\Etiquette\bin\Debug\Etiquette.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Temp\Share files\Etiquette\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Oussema\Desktop\PFE Tests\Temp\Share files\Etiquette\obj\x86\Debug\Etiquette.MyLabel.resources
+C:\Users\Oussema\Desktop\PFE Tests\Temp\Share files\Etiquette\obj\x86\Debug\Etiquette.Properties.Resources.resources
+C:\Users\Oussema\Desktop\PFE Tests\Temp\Share files\Etiquette\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Oussema\Desktop\PFE Tests\Temp\Share files\Etiquette\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Oussema\Desktop\PFE Tests\Temp\Share files\Etiquette\obj\x86\Debug\Etiquette.exe
+C:\Users\Oussema\Desktop\PFE Tests\Temp\Share files\Etiquette\obj\x86\Debug\Etiquette.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\Etiquette\bin\Debug\Etiquette.exe.config
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Etiquette\bin\Debug\Etiquette.exe.config
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Etiquette\bin\Debug\Etiquette.exe
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Etiquette\bin\Debug\Etiquette.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Etiquette\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Etiquette\obj\x86\Debug\Etiquette.MyLabel.resources
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Etiquette\obj\x86\Debug\Etiquette.Properties.Resources.resources
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Etiquette\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Etiquette\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Etiquette\obj\x86\Debug\Etiquette.exe
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Etiquette\obj\x86\Debug\Etiquette.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Etiquette\bin\Debug\MyClasses.dll
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Etiquette\bin\Debug\OAuthProtocol.dll
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Etiquette\bin\Debug\Dropbox.Api.dll
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Etiquette\bin\Debug\Sauvgardes.dll
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Etiquette\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Etiquette\bin\Debug\MyClasses.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Etiquette\bin\Debug\OAuthProtocol.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Etiquette\bin\Debug\Dropbox.Api.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Etiquette\bin\Debug\Sauvgardes.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Etiquette\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Etiquette\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Etiquette\bin\Debug\Etiquette.exe.config
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Etiquette\bin\Debug\Etiquette.exe
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Etiquette\bin\Debug\Etiquette.pdb
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Etiquette\bin\Debug\MyClasses.dll
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Etiquette\bin\Debug\OAuthProtocol.dll
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Etiquette\bin\Debug\Dropbox.Api.dll
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Etiquette\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Etiquette\bin\Debug\MyClasses.pdb
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Etiquette\bin\Debug\OAuthProtocol.pdb
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Etiquette\bin\Debug\Dropbox.Api.pdb
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Etiquette\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Etiquette\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Etiquette\obj\x86\Debug\Etiquette.csprojResolveAssemblyReference.cache
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Etiquette\obj\x86\Debug\Etiquette.MyLabel.resources
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Etiquette\obj\x86\Debug\Etiquette.Properties.Resources.resources
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Etiquette\obj\x86\Debug\Etiquette.csproj.GenerateResource.Cache
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Etiquette\obj\x86\Debug\Etiquette.exe
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Etiquette\obj\x86\Debug\Etiquette.pdb
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Etiquette\bin\Debug\Login.exe
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Etiquette\bin\Debug\Login.pdb
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Etiquette\bin\Debug\Etiquette.exe.config
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Etiquette\bin\Debug\Etiquette.exe
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Etiquette\bin\Debug\Etiquette.pdb
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Etiquette\bin\Debug\Login.exe
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Etiquette\bin\Debug\MyClasses.dll
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Etiquette\bin\Debug\OAuthProtocol.dll
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Etiquette\bin\Debug\Dropbox.Api.dll
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Etiquette\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Etiquette\bin\Debug\Login.pdb
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Etiquette\bin\Debug\MyClasses.pdb
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Etiquette\bin\Debug\OAuthProtocol.pdb
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Etiquette\bin\Debug\Dropbox.Api.pdb
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Etiquette\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Etiquette\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Etiquette\obj\x86\Debug\Etiquette.csprojResolveAssemblyReference.cache
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Etiquette\obj\x86\Debug\Etiquette.MyLabel.resources
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Etiquette\obj\x86\Debug\Etiquette.Properties.Resources.resources
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Etiquette\obj\x86\Debug\Etiquette.csproj.GenerateResource.Cache
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Etiquette\obj\x86\Debug\Etiquette.exe
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Etiquette\obj\x86\Debug\Etiquette.pdb
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Etiquette\bin\Debug\Etiquette.exe.config
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Etiquette\bin\Debug\Etiquette.exe
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Etiquette\bin\Debug\Etiquette.pdb
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Etiquette\bin\Debug\Login.exe
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Etiquette\bin\Debug\MyClasses.dll
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Etiquette\bin\Debug\OAuthProtocol.dll
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Etiquette\bin\Debug\Dropbox.Api.dll
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Etiquette\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Etiquette\bin\Debug\Login.pdb
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Etiquette\bin\Debug\MyClasses.pdb
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Etiquette\bin\Debug\OAuthProtocol.pdb
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Etiquette\bin\Debug\Dropbox.Api.pdb
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Etiquette\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Etiquette\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Etiquette\obj\x86\Debug\Etiquette.csprojResolveAssemblyReference.cache
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Etiquette\obj\x86\Debug\Etiquette.MyLabel.resources
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Etiquette\obj\x86\Debug\Etiquette.Properties.Resources.resources
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Etiquette\obj\x86\Debug\Etiquette.csproj.GenerateResource.Cache
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Etiquette\obj\x86\Debug\Etiquette.exe
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Etiquette\obj\x86\Debug\Etiquette.pdb
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Etiquette\bin\Debug\Etiquette.exe.config
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Etiquette\bin\Debug\Etiquette.exe
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Etiquette\bin\Debug\Etiquette.pdb
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Etiquette\bin\Debug\Login.exe
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Etiquette\bin\Debug\MyClasses.dll
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Etiquette\bin\Debug\OAuthProtocol.dll
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Etiquette\bin\Debug\Dropbox.Api.dll
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Etiquette\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Etiquette\bin\Debug\Login.pdb
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Etiquette\bin\Debug\MyClasses.pdb
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Etiquette\bin\Debug\OAuthProtocol.pdb
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Etiquette\bin\Debug\Dropbox.Api.pdb
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Etiquette\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Etiquette\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Etiquette\obj\x86\Debug\Etiquette.csprojResolveAssemblyReference.cache
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Etiquette\obj\x86\Debug\Etiquette.MyLabel.resources
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Etiquette\obj\x86\Debug\Etiquette.Properties.Resources.resources
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Etiquette\obj\x86\Debug\Etiquette.csproj.GenerateResource.Cache
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Etiquette\obj\x86\Debug\Etiquette.exe
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Etiquette\obj\x86\Debug\Etiquette.pdb
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Etiquette\obj\x86\Debug\Etiquette.g.resources

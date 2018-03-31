@@ -1,0 +1,5 @@
+C:\Users\Oussema\Desktop\PFE Tests\Essais\PFE_V1\OAuthProtocol\bin\Release\OAuthProtocol.dll
+C:\Users\Oussema\Desktop\PFE Tests\Essais\PFE_V1\OAuthProtocol\bin\Release\OAuthProtocol.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Essais\PFE_V1\OAuthProtocol\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Oussema\Desktop\PFE Tests\Essais\PFE_V1\OAuthProtocol\obj\Release\OAuthProtocol.dll
+C:\Users\Oussema\Desktop\PFE Tests\Essais\PFE_V1\OAuthProtocol\obj\Release\OAuthProtocol.pdb

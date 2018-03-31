@@ -1,0 +1,15 @@
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\Sauvgardes\bin\Debug\Sauvgardes.dll
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\Sauvgardes\bin\Debug\Sauvgardes.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\Sauvgardes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\Sauvgardes\obj\Debug\Sauvgardes.dll
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\Sauvgardes\obj\Debug\Sauvgardes.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Sauvgardes\bin\Debug\Sauvgardes.dll
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Sauvgardes\bin\Debug\Sauvgardes.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Sauvgardes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Sauvgardes\obj\Debug\Sauvgardes.dll
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Sauvgardes\obj\Debug\Sauvgardes.pdb
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Sauvgardes\bin\Debug\Sauvgardes.dll
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Sauvgardes\bin\Debug\Sauvgardes.pdb
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Sauvgardes\obj\Debug\Sauvgardes.csprojResolveAssemblyReference.cache
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Sauvgardes\obj\Debug\Sauvgardes.dll
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Sauvgardes\obj\Debug\Sauvgardes.pdb

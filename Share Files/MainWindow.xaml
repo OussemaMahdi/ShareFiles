@@ -1,0 +1,123 @@
+﻿<Window x:Class="Share_Files.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        WindowStartupLocation="Manual" Left="0" Top="0" Width="310" MaxWidth="310" Height="Auto" MaxHeight="400" Background="Transparent" ShowInTaskbar="False"
+        Title="MainWindow" WindowStyle="None" ResizeMode="NoResize" AllowsTransparency="True" Loaded="Window_Loaded" Icon="Resources/iconpro.ico">
+    <Grid Height="Auto" Width="300" MaxWidth="300" MaxHeight="400" VerticalAlignment="Bottom">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30" />
+            <RowDefinition Height="30" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="30" />
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" Background="#1d4891">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="30" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="30" />
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Image x:Name="image1"  Stretch="Uniform" Margin="3,3,3,3" Source="/Share%20Files;component/Resources/iconpro.ico" />
+            </Grid>
+            <Grid Grid.Column="1">
+                <Label Content="MyDocs" HorizontalAlignment="Left" x:Name="label1" Foreground="White" FontWeight="Normal" FontFamily="Viner Hand ITC" FontSize="18" />
+            </Grid>           
+            <Grid Grid.Column="2" Margin="7,5,3,5">
+                <Button x:Name="CloseButton" Click="CloseButton_Click">
+                    <Button.Template>
+                        <ControlTemplate>
+                            <Image Source="/Share%20Files;component/Resources/close_256.png" />
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="1" Background="Azure">
+            <Grid Margin="0,0,5,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Label Content="" Foreground="#FF1D4891" FontFamily="Lucida Sans" x:Name="UtilConnec" VerticalAlignment="Center" FontWeight="Bold" FontSize="13"/>
+            </Grid>
+            <Grid Grid.Column="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="10"/>
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0">
+                        <Label Content="Internet" FontFamily="Lucida Sans" Foreground="#FF1D4891" HorizontalAlignment="Right" VerticalAlignment="Center"/>
+                </Grid>
+                <Grid Grid.Column="1" Margin="0,10,0,10">
+                        <Image Source="Resources/CercleRouge.png" Name="imgintR" Stretch="UniformToFill" Visibility="Visible" VerticalAlignment="Center"/>
+                        <Image Source="Resources/CercleVert.png" Name="imgintV" Stretch="UniformToFill" Visibility="Hidden" VerticalAlignment="Center"/>
+                    </Grid>
+            </Grid>
+            <Grid Grid.Column="3">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="10"/>
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0">
+                    <Label Content="Local Network" Foreground="#FF1D4891" FontFamily="Lucida Sans" HorizontalAlignment="Right" VerticalAlignment="Center"/>
+                </Grid>
+                <Grid Grid.Column="1" Margin="0,10,0,10">
+                        <Image Source="Resources/CercleRouge.png" Name="imglocR" Stretch="UniformToFill" Visibility="Visible" VerticalAlignment="Center"/>
+                        <Image Source="Resources/CercleVert.png" Name="imglocV" Stretch="UniformToFill" Visibility="Hidden" VerticalAlignment="Center"/>
+                    </Grid>
+            </Grid>
+        </Grid>
+        </Grid>
+        <Grid Grid.Row="2" Background="Beige" MaxHeight="300">
+            <ListView SelectionMode="Single" Name="listedefichiers" ItemsSource="{Binding}" SelectionChanged="listedefichiers_SelectionChanged" >
+                <ListView.ItemTemplate >
+                    <DataTemplate>
+                        <Border BorderThickness="5">
+                            <Grid Height="35" >
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="4*"/>
+                                </Grid.ColumnDefinitions>
+                                <Grid Grid.Column="0">
+                                    <Image Source="Resources/iconFile.png" Stretch="UniformToFill"/>
+                                </Grid>
+                                <Grid Grid.Column="1" Margin="10,0,0,0">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="*"/>
+                                        <RowDefinition Height="*"/>
+                                    </Grid.RowDefinitions>
+                                    <Grid Grid.Row="0">
+                                        <TextBlock Text="{Binding Path=nom}" FontWeight="Bold"/>
+                                    </Grid>
+                                    <Grid Grid.Row="1">
+                                        <TextBlock Text="{Binding Path=comment}" FontWeight="UltraLight"/>
+                                    </Grid>
+                                </Grid>
+                            </Grid>
+                        </Border>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+                <ListView.BorderBrush>
+                    <SolidColorBrush/>
+                </ListView.BorderBrush>
+            </ListView>
+        </Grid>
+        <Grid Grid.Row="3" Background="Azure">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="30"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="1">
+
+            </Grid>
+            <Grid Grid.Column="2">
+                <Button Content="Disconnect" Background="Transparent" BorderBrush="Transparent" FontFamily="Lucida Sans" Margin="0,0,10,0" Foreground="#FF1D4891" VerticalAlignment="Center" Click="Button_Click_1"  />
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>
+

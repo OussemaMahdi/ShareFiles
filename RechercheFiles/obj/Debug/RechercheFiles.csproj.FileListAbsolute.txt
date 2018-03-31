@@ -1,0 +1,48 @@
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\RechercheFiles\bin\Debug\RechercheFiles.exe
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\RechercheFiles\bin\Debug\RechercheFiles.pdb
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\RechercheFiles\obj\Debug\RechercheFiles.csprojResolveAssemblyReference.cache
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\RechercheFiles\obj\Debug\MainWindow.baml
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\RechercheFiles\obj\Debug\MainWindow.g.cs
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\RechercheFiles\obj\Debug\App.g.cs
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\RechercheFiles\obj\Debug\RechercheFiles_MarkupCompile.cache
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\RechercheFiles\obj\Debug\RechercheFiles.g.resources
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\RechercheFiles\obj\Debug\RechercheFiles.Properties.Resources.resources
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\RechercheFiles\obj\Debug\RechercheFiles.csproj.GenerateResource.Cache
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\RechercheFiles\obj\Debug\RechercheFiles.exe
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\RechercheFiles\obj\Debug\RechercheFiles.pdb
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\RechercheFiles\bin\Debug\Resources\arrier2015.png
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\RechercheFiles\bin\Debug\Resources\ferclose.png
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\RechercheFiles\bin\Debug\Resources\logo5.png
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\RechercheFiles\bin\Debug\MyClasses.dll
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\RechercheFiles\bin\Debug\OAuthProtocol.dll
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\RechercheFiles\bin\Debug\Dropbox.Api.dll
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\RechercheFiles\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\RechercheFiles\bin\Debug\MyClasses.pdb
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\RechercheFiles\bin\Debug\OAuthProtocol.pdb
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\RechercheFiles\bin\Debug\Dropbox.Api.pdb
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\RechercheFiles\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\RechercheFiles\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\RechercheFiles\bin\Debug\Resources\arrier2015.png
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\RechercheFiles\bin\Debug\Resources\ferclose.png
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\RechercheFiles\bin\Debug\Resources\logo5.png
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\RechercheFiles\bin\Debug\RechercheFiles.exe
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\RechercheFiles\bin\Debug\RechercheFiles.pdb
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\RechercheFiles\bin\Debug\MyClasses.dll
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\RechercheFiles\bin\Debug\OAuthProtocol.dll
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\RechercheFiles\bin\Debug\Dropbox.Api.dll
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\RechercheFiles\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\RechercheFiles\bin\Debug\MyClasses.pdb
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\RechercheFiles\bin\Debug\OAuthProtocol.pdb
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\RechercheFiles\bin\Debug\Dropbox.Api.pdb
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\RechercheFiles\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\RechercheFiles\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\RechercheFiles\obj\Debug\RechercheFiles.csprojResolveAssemblyReference.cache
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\RechercheFiles\obj\Debug\MainWindow.baml
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\RechercheFiles\obj\Debug\MainWindow.g.cs
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\RechercheFiles\obj\Debug\App.g.cs
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\RechercheFiles\obj\Debug\RechercheFiles_MarkupCompile.cache
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\RechercheFiles\obj\Debug\RechercheFiles.g.resources
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\RechercheFiles\obj\Debug\RechercheFiles.Properties.Resources.resources
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\RechercheFiles\obj\Debug\RechercheFiles.csproj.GenerateResource.Cache
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\RechercheFiles\obj\Debug\RechercheFiles.exe
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\RechercheFiles\obj\Debug\RechercheFiles.pdb

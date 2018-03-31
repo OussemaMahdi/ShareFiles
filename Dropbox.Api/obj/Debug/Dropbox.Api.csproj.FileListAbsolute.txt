@@ -1,0 +1,90 @@
+C:\Users\Oussema\Downloads\DropboxPart5\Dropbox.Api\bin\Debug\Dropbox.Api.dll
+C:\Users\Oussema\Downloads\DropboxPart5\Dropbox.Api\bin\Debug\Dropbox.Api.pdb
+C:\Users\Oussema\Downloads\DropboxPart5\Dropbox.Api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oussema\Downloads\DropboxPart5\Dropbox.Api\bin\Debug\OAuthProtocol.dll
+C:\Users\Oussema\Downloads\DropboxPart5\Dropbox.Api\bin\Debug\OAuthProtocol.pdb
+C:\Users\Oussema\Downloads\DropboxPart5\Dropbox.Api\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Oussema\Downloads\DropboxPart5\Dropbox.Api\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oussema\Downloads\DropboxPart5\Dropbox.Api\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Oussema\Downloads\DropboxPart5\Dropbox.Api\obj\Debug\Dropbox.Api.dll
+C:\Users\Oussema\Downloads\DropboxPart5\Dropbox.Api\obj\Debug\Dropbox.Api.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Essais\PFE_V1\Dropbox.Api\bin\Debug\Dropbox.Api.dll
+C:\Users\Oussema\Desktop\PFE Tests\Essais\PFE_V1\Dropbox.Api\bin\Debug\Dropbox.Api.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Essais\PFE_V1\Dropbox.Api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oussema\Desktop\PFE Tests\Essais\PFE_V1\Dropbox.Api\bin\Debug\OAuthProtocol.dll
+C:\Users\Oussema\Desktop\PFE Tests\Essais\PFE_V1\Dropbox.Api\bin\Debug\OAuthProtocol.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Essais\PFE_V1\Dropbox.Api\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Essais\PFE_V1\Dropbox.Api\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oussema\Desktop\PFE Tests\Essais\PFE_V1\Dropbox.Api\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Oussema\Desktop\PFE Tests\Essais\PFE_V1\Dropbox.Api\obj\Debug\Dropbox.Api.dll
+C:\Users\Oussema\Desktop\PFE Tests\Essais\PFE_V1\Dropbox.Api\obj\Debug\Dropbox.Api.pdb
+C:\Users\DELL\Desktop\08-04-2015\PFE_2015\Dropbox.Api\bin\Debug\Dropbox.Api.dll
+C:\Users\DELL\Desktop\08-04-2015\PFE_2015\Dropbox.Api\bin\Debug\Dropbox.Api.pdb
+C:\Users\DELL\Desktop\08-04-2015\PFE_2015\Dropbox.Api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\08-04-2015\PFE_2015\Dropbox.Api\bin\Debug\OAuthProtocol.dll
+C:\Users\DELL\Desktop\08-04-2015\PFE_2015\Dropbox.Api\bin\Debug\OAuthProtocol.pdb
+C:\Users\DELL\Desktop\08-04-2015\PFE_2015\Dropbox.Api\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\DELL\Desktop\08-04-2015\PFE_2015\Dropbox.Api\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\08-04-2015\PFE_2015\Dropbox.Api\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\08-04-2015\PFE_2015\Dropbox.Api\obj\Debug\Dropbox.Api.dll
+C:\Users\DELL\Desktop\08-04-2015\PFE_2015\Dropbox.Api\obj\Debug\Dropbox.Api.pdb
+C:\Users\Oussema\Desktop\PFE Tests\08-04-2015\PFE_2015\Dropbox.Api\bin\Debug\Dropbox.Api.dll
+C:\Users\Oussema\Desktop\PFE Tests\08-04-2015\PFE_2015\Dropbox.Api\bin\Debug\Dropbox.Api.pdb
+C:\Users\Oussema\Desktop\PFE Tests\08-04-2015\PFE_2015\Dropbox.Api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oussema\Desktop\PFE Tests\08-04-2015\PFE_2015\Dropbox.Api\bin\Debug\OAuthProtocol.dll
+C:\Users\Oussema\Desktop\PFE Tests\08-04-2015\PFE_2015\Dropbox.Api\bin\Debug\OAuthProtocol.pdb
+C:\Users\Oussema\Desktop\PFE Tests\08-04-2015\PFE_2015\Dropbox.Api\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Oussema\Desktop\PFE Tests\08-04-2015\PFE_2015\Dropbox.Api\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oussema\Desktop\PFE Tests\08-04-2015\PFE_2015\Dropbox.Api\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Oussema\Desktop\PFE Tests\08-04-2015\PFE_2015\Dropbox.Api\obj\Debug\Dropbox.Api.dll
+C:\Users\Oussema\Desktop\PFE Tests\08-04-2015\PFE_2015\Dropbox.Api\obj\Debug\Dropbox.Api.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\Dropbox.Api\bin\Debug\Dropbox.Api.dll
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\Dropbox.Api\bin\Debug\Dropbox.Api.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\Dropbox.Api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\Dropbox.Api\bin\Debug\OAuthProtocol.dll
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\Dropbox.Api\bin\Debug\OAuthProtocol.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\Dropbox.Api\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\Dropbox.Api\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\Dropbox.Api\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\Dropbox.Api\obj\Debug\Dropbox.Api.dll
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\Dropbox.Api\obj\Debug\Dropbox.Api.pdb
+C:\Users\Oussema\Desktop\sharefile version final\Share files\Dropbox.Api\bin\Debug\Dropbox.Api.dll
+C:\Users\Oussema\Desktop\sharefile version final\Share files\Dropbox.Api\bin\Debug\Dropbox.Api.pdb
+C:\Users\Oussema\Desktop\sharefile version final\Share files\Dropbox.Api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oussema\Desktop\sharefile version final\Share files\Dropbox.Api\bin\Debug\OAuthProtocol.dll
+C:\Users\Oussema\Desktop\sharefile version final\Share files\Dropbox.Api\bin\Debug\OAuthProtocol.pdb
+C:\Users\Oussema\Desktop\sharefile version final\Share files\Dropbox.Api\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Oussema\Desktop\sharefile version final\Share files\Dropbox.Api\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oussema\Desktop\sharefile version final\Share files\Dropbox.Api\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Oussema\Desktop\sharefile version final\Share files\Dropbox.Api\obj\Debug\Dropbox.Api.dll
+C:\Users\Oussema\Desktop\sharefile version final\Share files\Dropbox.Api\obj\Debug\Dropbox.Api.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Temp\Share files\Dropbox.Api\bin\Debug\Dropbox.Api.dll
+C:\Users\Oussema\Desktop\PFE Tests\Temp\Share files\Dropbox.Api\bin\Debug\Dropbox.Api.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Temp\Share files\Dropbox.Api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oussema\Desktop\PFE Tests\Temp\Share files\Dropbox.Api\bin\Debug\OAuthProtocol.dll
+C:\Users\Oussema\Desktop\PFE Tests\Temp\Share files\Dropbox.Api\bin\Debug\OAuthProtocol.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Temp\Share files\Dropbox.Api\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Temp\Share files\Dropbox.Api\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oussema\Desktop\PFE Tests\Temp\Share files\Dropbox.Api\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Oussema\Desktop\PFE Tests\Temp\Share files\Dropbox.Api\obj\Debug\Dropbox.Api.dll
+C:\Users\Oussema\Desktop\PFE Tests\Temp\Share files\Dropbox.Api\obj\Debug\Dropbox.Api.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Dropbox.Api\bin\Debug\Dropbox.Api.dll
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Dropbox.Api\bin\Debug\Dropbox.Api.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Dropbox.Api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Dropbox.Api\bin\Debug\OAuthProtocol.dll
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Dropbox.Api\bin\Debug\OAuthProtocol.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Dropbox.Api\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Dropbox.Api\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Dropbox.Api\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Dropbox.Api\obj\Debug\Dropbox.Api.dll
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Dropbox.Api\obj\Debug\Dropbox.Api.pdb
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Dropbox.Api\bin\Debug\Dropbox.Api.dll
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Dropbox.Api\bin\Debug\Dropbox.Api.pdb
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Dropbox.Api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Dropbox.Api\bin\Debug\OAuthProtocol.dll
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Dropbox.Api\bin\Debug\OAuthProtocol.pdb
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Dropbox.Api\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Dropbox.Api\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Dropbox.Api\obj\Debug\Dropbox.Api.csprojResolveAssemblyReference.cache
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Dropbox.Api\obj\Debug\Dropbox.Api.dll
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Dropbox.Api\obj\Debug\Dropbox.Api.pdb

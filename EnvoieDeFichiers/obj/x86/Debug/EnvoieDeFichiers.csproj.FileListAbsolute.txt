@@ -1,0 +1,223 @@
+C:\Users\DELL\Desktop\08-04-2015\PFE_2015\EnvoieDeFichiers\bin\Debug\EnvoieDeFichiers.exe
+C:\Users\DELL\Desktop\08-04-2015\PFE_2015\EnvoieDeFichiers\bin\Debug\EnvoieDeFichiers.pdb
+C:\Users\DELL\Desktop\08-04-2015\PFE_2015\EnvoieDeFichiers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\08-04-2015\PFE_2015\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.Envoie_De_Fichiers.resources
+C:\Users\DELL\Desktop\08-04-2015\PFE_2015\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.Properties.Resources.resources
+C:\Users\DELL\Desktop\08-04-2015\PFE_2015\EnvoieDeFichiers\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\DELL\Desktop\08-04-2015\PFE_2015\EnvoieDeFichiers\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\DELL\Desktop\08-04-2015\PFE_2015\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.exe
+C:\Users\DELL\Desktop\08-04-2015\PFE_2015\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.pdb
+C:\Users\Oussema\Desktop\PFE Tests\08-04-2015\PFE_2015\EnvoieDeFichiers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Oussema\Desktop\PFE Tests\08-04-2015\PFE_2015\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.Envoie_De_Fichiers.resources
+C:\Users\Oussema\Desktop\PFE Tests\08-04-2015\PFE_2015\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.Properties.Resources.resources
+C:\Users\Oussema\Desktop\PFE Tests\08-04-2015\PFE_2015\EnvoieDeFichiers\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Oussema\Desktop\PFE Tests\08-04-2015\PFE_2015\EnvoieDeFichiers\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Oussema\Desktop\PFE Tests\08-04-2015\PFE_2015\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.exe
+C:\Users\Oussema\Desktop\PFE Tests\08-04-2015\PFE_2015\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.pdb
+C:\Users\Oussema\Desktop\PFE Tests\08-04-2015\PFE_2015\EnvoieDeFichiers\bin\Debug\EnvoieDeFichiers.exe.config
+C:\Users\Oussema\Desktop\PFE Tests\08-04-2015\PFE_2015\EnvoieDeFichiers\bin\Debug\EnvoieDeFichiers.exe
+C:\Users\Oussema\Desktop\PFE Tests\08-04-2015\PFE_2015\EnvoieDeFichiers\bin\Debug\EnvoieDeFichiers.pdb
+C:\Users\Oussema\Desktop\PFE Tests\08-04-2015\PFE_2015\EnvoieDeFichiers\bin\Debug\Dropbox.Api.dll
+C:\Users\Oussema\Desktop\PFE Tests\08-04-2015\PFE_2015\EnvoieDeFichiers\bin\Debug\OAuthProtocol.dll
+C:\Users\Oussema\Desktop\PFE Tests\08-04-2015\PFE_2015\EnvoieDeFichiers\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oussema\Desktop\PFE Tests\08-04-2015\PFE_2015\EnvoieDeFichiers\bin\Debug\Dropbox.Api.pdb
+C:\Users\Oussema\Desktop\PFE Tests\08-04-2015\PFE_2015\EnvoieDeFichiers\bin\Debug\OAuthProtocol.pdb
+C:\Users\Oussema\Desktop\PFE Tests\08-04-2015\PFE_2015\EnvoieDeFichiers\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Oussema\Desktop\PFE Tests\08-04-2015\PFE_2015\EnvoieDeFichiers\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oussema\Desktop\PFE Tests\08-04-2015\PFE_2015\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.comment.resources
+C:\Users\Oussema\Desktop\PFE Tests\08-04-2015\PFE_2015\EnvoieDeFichiers\bin\Debug\ZonneDeNotifications.exe
+C:\Users\Oussema\Desktop\PFE Tests\08-04-2015\PFE_2015\EnvoieDeFichiers\bin\Debug\ZonneDeNotifications.pdb
+C:\Users\Oussema\Desktop\PFE Tests\08-04-2015\PFE_2015\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.BarreDeChargement.resources
+C:\Users\DELL\Desktop\final_code_PFE\PFE_2015\EnvoieDeFichiers\bin\Debug\EnvoieDeFichiers.exe.config
+C:\Users\DELL\Desktop\final_code_PFE\PFE_2015\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.exe
+C:\Users\DELL\Desktop\final_code_PFE\PFE_2015\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\EnvoieDeFichiers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.Envoie_De_Fichiers.resources
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.Properties.Resources.resources
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\EnvoieDeFichiers\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\EnvoieDeFichiers\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.exe
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\EnvoieDeFichiers\bin\Debug\EnvoieDeFichiers.exe.config
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\EnvoieDeFichiers\bin\Debug\EnvoieDeFichiers.exe
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\EnvoieDeFichiers\bin\Debug\EnvoieDeFichiers.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.pdb
+C:\Users\DELL\Desktop\final_code_PFE\17-04-2015 V2.0\Share files\EnvoieDeFichiers\bin\Debug\EnvoieDeFichiers.exe.config
+C:\Users\DELL\Desktop\final_code_PFE\17-04-2015 V2.0\Share files\EnvoieDeFichiers\bin\Debug\EnvoieDeFichiers.exe
+C:\Users\DELL\Desktop\final_code_PFE\17-04-2015 V2.0\Share files\EnvoieDeFichiers\bin\Debug\EnvoieDeFichiers.pdb
+C:\Users\DELL\Desktop\final_code_PFE\17-04-2015 V2.0\Share files\EnvoieDeFichiers\bin\Debug\Dropbox.Api.dll
+C:\Users\DELL\Desktop\final_code_PFE\17-04-2015 V2.0\Share files\EnvoieDeFichiers\bin\Debug\OAuthProtocol.dll
+C:\Users\DELL\Desktop\final_code_PFE\17-04-2015 V2.0\Share files\EnvoieDeFichiers\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\final_code_PFE\17-04-2015 V2.0\Share files\EnvoieDeFichiers\bin\Debug\Dropbox.Api.pdb
+C:\Users\DELL\Desktop\final_code_PFE\17-04-2015 V2.0\Share files\EnvoieDeFichiers\bin\Debug\OAuthProtocol.pdb
+C:\Users\DELL\Desktop\final_code_PFE\17-04-2015 V2.0\Share files\EnvoieDeFichiers\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\DELL\Desktop\final_code_PFE\17-04-2015 V2.0\Share files\EnvoieDeFichiers\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\final_code_PFE\17-04-2015 V2.0\Share files\EnvoieDeFichiers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\final_code_PFE\17-04-2015 V2.0\Share files\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.BarreDeChargement.resources
+C:\Users\DELL\Desktop\final_code_PFE\17-04-2015 V2.0\Share files\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.Envoie_De_Fichiers.resources
+C:\Users\DELL\Desktop\final_code_PFE\17-04-2015 V2.0\Share files\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.Properties.Resources.resources
+C:\Users\DELL\Desktop\final_code_PFE\17-04-2015 V2.0\Share files\EnvoieDeFichiers\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\DELL\Desktop\final_code_PFE\17-04-2015 V2.0\Share files\EnvoieDeFichiers\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\DELL\Desktop\final_code_PFE\17-04-2015 V2.0\Share files\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.exe
+C:\Users\DELL\Desktop\final_code_PFE\17-04-2015 V2.0\Share files\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.pdb
+C:\Users\DELL\Desktop\final_code_PFE\Final\Share files\EnvoieDeFichiers\bin\Debug\EnvoieDeFichiers.exe.config
+C:\Users\DELL\Desktop\final_code_PFE\Final\Share files\EnvoieDeFichiers\bin\Debug\EnvoieDeFichiers.exe
+C:\Users\DELL\Desktop\final_code_PFE\Final\Share files\EnvoieDeFichiers\bin\Debug\EnvoieDeFichiers.pdb
+C:\Users\DELL\Desktop\final_code_PFE\Final\Share files\EnvoieDeFichiers\bin\Debug\Dropbox.Api.dll
+C:\Users\DELL\Desktop\final_code_PFE\Final\Share files\EnvoieDeFichiers\bin\Debug\OAuthProtocol.dll
+C:\Users\DELL\Desktop\final_code_PFE\Final\Share files\EnvoieDeFichiers\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\final_code_PFE\Final\Share files\EnvoieDeFichiers\bin\Debug\Dropbox.Api.pdb
+C:\Users\DELL\Desktop\final_code_PFE\Final\Share files\EnvoieDeFichiers\bin\Debug\OAuthProtocol.pdb
+C:\Users\DELL\Desktop\final_code_PFE\Final\Share files\EnvoieDeFichiers\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\DELL\Desktop\final_code_PFE\Final\Share files\EnvoieDeFichiers\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\final_code_PFE\Final\Share files\EnvoieDeFichiers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\final_code_PFE\Final\Share files\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.BarreDeChargement.resources
+C:\Users\DELL\Desktop\final_code_PFE\Final\Share files\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.Envoie_De_Fichiers.resources
+C:\Users\DELL\Desktop\final_code_PFE\Final\Share files\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.Properties.Resources.resources
+C:\Users\DELL\Desktop\final_code_PFE\Final\Share files\EnvoieDeFichiers\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\DELL\Desktop\final_code_PFE\Final\Share files\EnvoieDeFichiers\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\DELL\Desktop\final_code_PFE\Final\Share files\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.exe
+C:\Users\DELL\Desktop\final_code_PFE\Final\Share files\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.pdb
+C:\Users\DELL\Desktop\final_code_PFE\Share files\EnvoieDeFichiers\bin\Debug\EnvoieDeFichiers.exe.config
+C:\Users\DELL\Desktop\final_code_PFE\Share files\EnvoieDeFichiers\bin\Debug\EnvoieDeFichiers.exe
+C:\Users\DELL\Desktop\final_code_PFE\Share files\EnvoieDeFichiers\bin\Debug\EnvoieDeFichiers.pdb
+C:\Users\DELL\Desktop\final_code_PFE\Share files\EnvoieDeFichiers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\final_code_PFE\Share files\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.BarreDeChargement.resources
+C:\Users\DELL\Desktop\final_code_PFE\Share files\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.Envoie_De_Fichiers.resources
+C:\Users\DELL\Desktop\final_code_PFE\Share files\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.Properties.Resources.resources
+C:\Users\DELL\Desktop\final_code_PFE\Share files\EnvoieDeFichiers\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\DELL\Desktop\final_code_PFE\Share files\EnvoieDeFichiers\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\DELL\Desktop\final_code_PFE\Share files\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.exe
+C:\Users\DELL\Desktop\final_code_PFE\Share files\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.pdb
+C:\Users\Oussema\Desktop\sharefile version final\Share files\EnvoieDeFichiers\bin\Debug\EnvoieDeFichiers.exe.config
+C:\Users\Oussema\Desktop\sharefile version final\Share files\EnvoieDeFichiers\bin\Debug\EnvoieDeFichiers.exe
+C:\Users\Oussema\Desktop\sharefile version final\Share files\EnvoieDeFichiers\bin\Debug\EnvoieDeFichiers.pdb
+C:\Users\Oussema\Desktop\sharefile version final\Share files\EnvoieDeFichiers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Oussema\Desktop\sharefile version final\Share files\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.BarreDeChargement.resources
+C:\Users\Oussema\Desktop\sharefile version final\Share files\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.Envoie_De_Fichiers.resources
+C:\Users\Oussema\Desktop\sharefile version final\Share files\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.Properties.Resources.resources
+C:\Users\Oussema\Desktop\sharefile version final\Share files\EnvoieDeFichiers\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Oussema\Desktop\sharefile version final\Share files\EnvoieDeFichiers\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Oussema\Desktop\sharefile version final\Share files\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.exe
+C:\Users\Oussema\Desktop\sharefile version final\Share files\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\EnvoieDeFichiers\bin\Debug\MyClasses.dll
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\EnvoieDeFichiers\bin\Debug\MyClasses.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\EnvoieDeFichiers\obj\x86\Debug\GenerateResource.write.1091.tlog
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\EnvoieDeFichiers\bin\Debug\OAuthProtocol.dll
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\EnvoieDeFichiers\bin\Debug\Dropbox.Api.dll
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\EnvoieDeFichiers\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\EnvoieDeFichiers\bin\Debug\OAuthProtocol.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\EnvoieDeFichiers\bin\Debug\Dropbox.Api.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\EnvoieDeFichiers\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\EnvoieDeFichiers\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oussema\Desktop\PFE Tests\Temp\Share files\EnvoieDeFichiers\bin\Debug\EnvoieDeFichiers.exe.config
+C:\Users\Oussema\Desktop\PFE Tests\Temp\Share files\EnvoieDeFichiers\bin\Debug\EnvoieDeFichiers.exe
+C:\Users\Oussema\Desktop\PFE Tests\Temp\Share files\EnvoieDeFichiers\bin\Debug\EnvoieDeFichiers.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Temp\Share files\EnvoieDeFichiers\bin\Debug\Dropbox.Api.dll
+C:\Users\Oussema\Desktop\PFE Tests\Temp\Share files\EnvoieDeFichiers\bin\Debug\MyClasses.dll
+C:\Users\Oussema\Desktop\PFE Tests\Temp\Share files\EnvoieDeFichiers\bin\Debug\OAuthProtocol.dll
+C:\Users\Oussema\Desktop\PFE Tests\Temp\Share files\EnvoieDeFichiers\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oussema\Desktop\PFE Tests\Temp\Share files\EnvoieDeFichiers\bin\Debug\Dropbox.Api.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Temp\Share files\EnvoieDeFichiers\bin\Debug\MyClasses.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Temp\Share files\EnvoieDeFichiers\bin\Debug\OAuthProtocol.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Temp\Share files\EnvoieDeFichiers\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Temp\Share files\EnvoieDeFichiers\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oussema\Desktop\PFE Tests\Temp\Share files\EnvoieDeFichiers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Oussema\Desktop\PFE Tests\Temp\Share files\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.Envoie_De_Fichiers.resources
+C:\Users\Oussema\Desktop\PFE Tests\Temp\Share files\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.Properties.Resources.resources
+C:\Users\Oussema\Desktop\PFE Tests\Temp\Share files\EnvoieDeFichiers\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Oussema\Desktop\PFE Tests\Temp\Share files\EnvoieDeFichiers\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Oussema\Desktop\PFE Tests\Temp\Share files\EnvoieDeFichiers\obj\x86\Debug\GenerateResource.write.1091.tlog
+C:\Users\Oussema\Desktop\PFE Tests\Temp\Share files\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.exe
+C:\Users\Oussema\Desktop\PFE Tests\Temp\Share files\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.pdb
+C:\Users\DELL\Desktop\02-05-2015\Share files\EnvoieDeFichiers\bin\Debug\EnvoieDeFichiers.exe.config
+C:\Users\DELL\Desktop\02-05-2015\Share files\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.exe
+C:\Users\DELL\Desktop\02-05-2015\Share files\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\EnvoieDeFichiers\bin\Debug\Login.exe
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\EnvoieDeFichiers\bin\Debug\Login.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\EnvoieDeFichiers\bin\Debug\Sauvgardes.dll
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\EnvoieDeFichiers\bin\Debug\Sauvgardes.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\EnvoieDeFichiers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.Envoie_De_Fichiers.resources
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.Properties.Resources.resources
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\EnvoieDeFichiers\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\EnvoieDeFichiers\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\EnvoieDeFichiers\obj\x86\Debug\GenerateResource.write.1091.tlog
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.exe
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\EnvoieDeFichiers\bin\Debug\EnvoieDeFichiers.exe.config
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\EnvoieDeFichiers\bin\Debug\EnvoieDeFichiers.exe
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\EnvoieDeFichiers\bin\Debug\EnvoieDeFichiers.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\EnvoieDeFichiers\bin\Debug\Dropbox.Api.dll
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\EnvoieDeFichiers\bin\Debug\Login.exe
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\EnvoieDeFichiers\bin\Debug\MyClasses.dll
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\EnvoieDeFichiers\bin\Debug\Sauvgardes.dll
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\EnvoieDeFichiers\bin\Debug\OAuthProtocol.dll
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\EnvoieDeFichiers\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\EnvoieDeFichiers\bin\Debug\Dropbox.Api.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\EnvoieDeFichiers\bin\Debug\MyClasses.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\EnvoieDeFichiers\bin\Debug\Sauvgardes.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\EnvoieDeFichiers\bin\Debug\Login.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\EnvoieDeFichiers\bin\Debug\OAuthProtocol.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\EnvoieDeFichiers\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\EnvoieDeFichiers\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.pdb
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\EnvoieDeFichiers\bin\Debug\EnvoieDeFichiers.exe.config
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\EnvoieDeFichiers\bin\Debug\EnvoieDeFichiers.exe
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\EnvoieDeFichiers\bin\Debug\EnvoieDeFichiers.pdb
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\EnvoieDeFichiers\bin\Debug\Dropbox.Api.dll
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\EnvoieDeFichiers\bin\Debug\Login.exe
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\EnvoieDeFichiers\bin\Debug\MyClasses.dll
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\EnvoieDeFichiers\bin\Debug\OAuthProtocol.dll
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\EnvoieDeFichiers\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\EnvoieDeFichiers\bin\Debug\Dropbox.Api.pdb
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\EnvoieDeFichiers\bin\Debug\MyClasses.pdb
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\EnvoieDeFichiers\bin\Debug\Login.pdb
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\EnvoieDeFichiers\bin\Debug\OAuthProtocol.pdb
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\EnvoieDeFichiers\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\EnvoieDeFichiers\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.csprojResolveAssemblyReference.cache
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.Envoie_De_Fichiers.resources
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.Properties.Resources.resources
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.csproj.GenerateResource.Cache
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.exe
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.pdb
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\EnvoieDeFichiers\bin\Debug\EnvoieDeFichiers.exe.config
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\EnvoieDeFichiers\bin\Debug\EnvoieDeFichiers.exe
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\EnvoieDeFichiers\bin\Debug\EnvoieDeFichiers.pdb
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\EnvoieDeFichiers\bin\Debug\Dropbox.Api.dll
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\EnvoieDeFichiers\bin\Debug\Login.exe
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\EnvoieDeFichiers\bin\Debug\MyClasses.dll
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\EnvoieDeFichiers\bin\Debug\OAuthProtocol.dll
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\EnvoieDeFichiers\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\EnvoieDeFichiers\bin\Debug\Dropbox.Api.pdb
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\EnvoieDeFichiers\bin\Debug\MyClasses.pdb
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\EnvoieDeFichiers\bin\Debug\Login.pdb
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\EnvoieDeFichiers\bin\Debug\OAuthProtocol.pdb
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\EnvoieDeFichiers\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\EnvoieDeFichiers\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.csprojResolveAssemblyReference.cache
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.Envoie_De_Fichiers.resources
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.Properties.Resources.resources
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.csproj.GenerateResource.Cache
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.exe
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.pdb
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\EnvoieDeFichiers\bin\Debug\EnvoieDeFichiers.exe.config
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\EnvoieDeFichiers\bin\Debug\EnvoieDeFichiers.exe
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\EnvoieDeFichiers\bin\Debug\EnvoieDeFichiers.pdb
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\EnvoieDeFichiers\bin\Debug\Dropbox.Api.dll
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\EnvoieDeFichiers\bin\Debug\Login.exe
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\EnvoieDeFichiers\bin\Debug\MyClasses.dll
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\EnvoieDeFichiers\bin\Debug\OAuthProtocol.dll
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\EnvoieDeFichiers\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\EnvoieDeFichiers\bin\Debug\Dropbox.Api.pdb
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\EnvoieDeFichiers\bin\Debug\MyClasses.pdb
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\EnvoieDeFichiers\bin\Debug\Login.pdb
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\EnvoieDeFichiers\bin\Debug\OAuthProtocol.pdb
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\EnvoieDeFichiers\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\EnvoieDeFichiers\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.csprojResolveAssemblyReference.cache
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.Envoie_De_Fichiers.resources
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.Properties.Resources.resources
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.csproj.GenerateResource.Cache
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.exe
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.pdb
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\EnvoieDeFichiers\obj\x86\Debug\EnvoieDeFichiers.g.resources

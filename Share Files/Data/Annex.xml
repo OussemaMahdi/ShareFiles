@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fichiers xmlns="http://tempuri.org/AnnexXMLshema.xsd">
+  <fichier>
+    <nom>nom1</nom>
+    <path>path1</path>
+    <createur>createur1</createur>
+    <commentaire>commentaire1</commentaire>
+  </fichier>
+</fichiers>

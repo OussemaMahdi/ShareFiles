@@ -1,0 +1,10 @@
+C:\Users\Oussema\Desktop\PFE Tests\Essais\PFE_V1\Dropbox.Api\bin\Release\Dropbox.Api.dll
+C:\Users\Oussema\Desktop\PFE Tests\Essais\PFE_V1\Dropbox.Api\bin\Release\Dropbox.Api.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Essais\PFE_V1\Dropbox.Api\bin\Release\Newtonsoft.Json.dll
+C:\Users\Oussema\Desktop\PFE Tests\Essais\PFE_V1\Dropbox.Api\bin\Release\OAuthProtocol.dll
+C:\Users\Oussema\Desktop\PFE Tests\Essais\PFE_V1\Dropbox.Api\bin\Release\OAuthProtocol.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Essais\PFE_V1\Dropbox.Api\bin\Release\Newtonsoft.Json.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Essais\PFE_V1\Dropbox.Api\bin\Release\Newtonsoft.Json.xml
+C:\Users\Oussema\Desktop\PFE Tests\Essais\PFE_V1\Dropbox.Api\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Oussema\Desktop\PFE Tests\Essais\PFE_V1\Dropbox.Api\obj\Release\Dropbox.Api.dll
+C:\Users\Oussema\Desktop\PFE Tests\Essais\PFE_V1\Dropbox.Api\obj\Release\Dropbox.Api.pdb

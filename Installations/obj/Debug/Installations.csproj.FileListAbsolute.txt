@@ -1,0 +1,56 @@
+C:\Users\DELL\Desktop\08-04-2015\PFE_2015\Installations\bin\Debug\Installations.dll
+C:\Users\DELL\Desktop\08-04-2015\PFE_2015\Installations\bin\Debug\Installations.pdb
+C:\Users\DELL\Desktop\08-04-2015\PFE_2015\Installations\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\08-04-2015\PFE_2015\Installations\obj\Debug\Installations.dll
+C:\Users\DELL\Desktop\08-04-2015\PFE_2015\Installations\obj\Debug\Installations.pdb
+C:\Users\Oussema\Desktop\PFE Tests\08-04-2015\PFE_2015\Installations\bin\Debug\Installations.dll
+C:\Users\Oussema\Desktop\PFE Tests\08-04-2015\PFE_2015\Installations\bin\Debug\Installations.pdb
+C:\Users\Oussema\Desktop\PFE Tests\08-04-2015\PFE_2015\Installations\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Oussema\Desktop\PFE Tests\08-04-2015\PFE_2015\Installations\obj\Debug\Installations.dll
+C:\Users\Oussema\Desktop\PFE Tests\08-04-2015\PFE_2015\Installations\obj\Debug\Installations.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\Installations\bin\Debug\Installations.dll
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\Installations\bin\Debug\Installations.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\Installations\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\Installations\obj\Debug\Installations.dll
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\Installations\obj\Debug\Installations.pdb
+C:\Users\Oussema\Desktop\sharefile version final\Share files\Installations\bin\Debug\Installations.dll
+C:\Users\Oussema\Desktop\sharefile version final\Share files\Installations\bin\Debug\Installations.pdb
+C:\Users\Oussema\Desktop\sharefile version final\Share files\Installations\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Oussema\Desktop\sharefile version final\Share files\Installations\obj\Debug\Installations.dll
+C:\Users\Oussema\Desktop\sharefile version final\Share files\Installations\obj\Debug\Installations.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Temp\Share files\Installations\bin\Debug\Installations.dll
+C:\Users\Oussema\Desktop\PFE Tests\Temp\Share files\Installations\bin\Debug\Installations.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Temp\Share files\Installations\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Oussema\Desktop\PFE Tests\Temp\Share files\Installations\obj\Debug\Installations.dll
+C:\Users\Oussema\Desktop\PFE Tests\Temp\Share files\Installations\obj\Debug\Installations.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\Installations\bin\Debug\MyClasses.dll
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\Installations\bin\Debug\OAuthProtocol.dll
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\Installations\bin\Debug\Dropbox.Api.dll
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\Installations\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\Installations\bin\Debug\MyClasses.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\Installations\bin\Debug\OAuthProtocol.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\Installations\bin\Debug\Dropbox.Api.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\Installations\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\Installations\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\Installations\bin\Debug\Sauvgardes.dll
+C:\Users\Oussema\Desktop\PFE Tests\Essai\Share files\Installations\bin\Debug\Sauvgardes.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Installations\bin\Debug\Installations.dll
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Installations\bin\Debug\Installations.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Installations\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Installations\obj\Debug\Installations.dll
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Installations\obj\Debug\Installations.pdb
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Installations\bin\Debug\Installations.dll
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Installations\bin\Debug\Installations.pdb
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Installations\obj\Debug\Installations.csprojResolveAssemblyReference.cache
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Installations\obj\Debug\Installations.dll
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Installations\obj\Debug\Installations.pdb
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Installations\obj\Debug\Installations.Properties.Resources.resources
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Installations\obj\Debug\Installations.csproj.GenerateResource.Cache
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Installations\bin\Debug\Installations.dll
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Installations\bin\Debug\Installations.pdb
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Installations\obj\Debug\Installations.csprojResolveAssemblyReference.cache
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Installations\obj\Debug\Installations.Properties.Resources.resources
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Installations\obj\Debug\Installations.csproj.GenerateResource.Cache
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Installations\obj\Debug\Installations.dll
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Installations\obj\Debug\Installations.pdb
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Installations\obj\Debug\Installations.g.resources

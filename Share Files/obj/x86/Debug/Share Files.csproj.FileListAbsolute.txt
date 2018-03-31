@@ -1,0 +1,169 @@
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Share Files\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Share Files\obj\x86\Debug\MainWindow.baml
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Share Files\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Share Files\obj\x86\Debug\App.g.cs
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Share Files\obj\x86\Debug\Share Files_MarkupCompile.cache
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Share Files\obj\x86\Debug\Share Files.g.resources
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Share Files\obj\x86\Debug\Share_Files.Properties.Resources.resources
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Share Files\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Share Files\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Share Files\bin\Debug\Share Files.exe.config
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Share Files\bin\Debug\Share Files.exe
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Share Files\bin\Debug\Share Files.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Share Files\bin\Debug\Etiquette.exe
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Share Files\bin\Debug\Login.exe
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Share Files\bin\Debug\MyClasses.dll
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Share Files\bin\Debug\Sauvgardes.dll
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Share Files\bin\Debug\OAuthProtocol.dll
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Share Files\bin\Debug\Dropbox.Api.dll
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Share Files\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Share Files\bin\Debug\Etiquette.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Share Files\bin\Debug\Login.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Share Files\bin\Debug\MyClasses.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Share Files\bin\Debug\Sauvgardes.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Share Files\bin\Debug\OAuthProtocol.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Share Files\bin\Debug\Dropbox.Api.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Share Files\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Share Files\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Share Files\obj\x86\Debug\Share Files.exe
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Share Files\obj\x86\Debug\Share Files.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Share Files\bin\Debug\EnvoieDeFichiers.exe
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Share Files\bin\Debug\EnvoieDeFichiers.pdb
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Share Files\obj\x86\Debug\Share Files_Content.g.cs
+C:\Users\Oussema\Desktop\PFE Tests\Final\Share Files\Share Files\bin\Debug\Data\Annex.xml
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Share Files\bin\Debug\Share Files.exe.config
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Share Files\obj\x86\Debug\Share Files.exe
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Share Files\obj\x86\Debug\Share Files.csprojResolveAssemblyReference.cache
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Share Files\obj\x86\Debug\MainWindow.baml
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Share Files\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Share Files\obj\x86\Debug\App.g.cs
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Share Files\obj\x86\Debug\Share Files_MarkupCompile.cache
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Share Files\obj\x86\Debug\Share Files.g.resources
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Share Files\obj\x86\Debug\Share_Files.Properties.Resources.resources
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Share Files\obj\x86\Debug\Share Files.csproj.GenerateResource.Cache
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Share Files\bin\Debug\Share Files.exe
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Share Files\bin\Debug\Share Files.pdb
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Share Files\bin\Debug\Etiquette.exe
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Share Files\bin\Debug\Login.exe
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Share Files\bin\Debug\MyClasses.dll
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Share Files\bin\Debug\OAuthProtocol.dll
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Share Files\bin\Debug\Dropbox.Api.dll
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Share Files\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Share Files\bin\Debug\Etiquette.pdb
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Share Files\bin\Debug\Login.pdb
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Share Files\bin\Debug\MyClasses.pdb
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Share Files\bin\Debug\OAuthProtocol.pdb
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Share Files\bin\Debug\Dropbox.Api.pdb
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Share Files\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Share Files\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Share Files\obj\x86\Debug\Share Files.pdb
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Share Files\obj\x86\Debug\App.baml
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Share Files\bin\Debug\EnvoieDeFichiers.exe
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Share Files\bin\Debug\EnvoieDeFichiers.pdb
+C:\Users\ahmed\Desktop\ShareFiles1\Share Files\bin\Debug\Share Files.exe.config
+C:\Users\ahmed\Desktop\ShareFiles1\Share Files\obj\x86\Debug\Share Files.exe
+C:\Users\ahmed\Desktop\ShareFiles1\Share Files\obj\x86\Debug\Share Files.pdb
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Share Files\bin\Debug\Share Files.exe.config
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Share Files\obj\x86\Debug\Share Files.exe
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Share Files\obj\x86\Debug\Share Files.pdb
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Share Files\bin\Debug\Resources\arrier2015.png
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Share Files\bin\Debug\Resources\ferclose.png
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Share Files\bin\Debug\Resources\logo5.png
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Share Files\bin\Debug\Share Files.exe
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Share Files\bin\Debug\Share Files.pdb
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Share Files\bin\Debug\EnvoieDeFichiers.exe
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Share Files\bin\Debug\Etiquette.exe
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Share Files\bin\Debug\Login.exe
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Share Files\bin\Debug\MyClasses.dll
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Share Files\bin\Debug\RechercheFiles.exe
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Share Files\bin\Debug\OAuthProtocol.dll
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Share Files\bin\Debug\Dropbox.Api.dll
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Share Files\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Share Files\bin\Debug\EnvoieDeFichiers.pdb
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Share Files\bin\Debug\Etiquette.pdb
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Share Files\bin\Debug\Login.pdb
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Share Files\bin\Debug\MyClasses.pdb
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Share Files\bin\Debug\RechercheFiles.pdb
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Share Files\bin\Debug\OAuthProtocol.pdb
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Share Files\bin\Debug\Dropbox.Api.pdb
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Share Files\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Share Files\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Share Files\obj\x86\Debug\Share Files.csprojResolveAssemblyReference.cache
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Share Files\obj\x86\Debug\App.baml
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Share Files\obj\x86\Debug\MainWindow.baml
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Share Files\obj\x86\Debug\App.g.cs
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Share Files\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Share Files\obj\x86\Debug\Share Files_MarkupCompile.cache
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Share Files\obj\x86\Debug\Share Files.g.resources
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Share Files\obj\x86\Debug\Share_Files.Properties.Resources.resources
+C:\Users\Oussema\Desktop\Share Files\ShareFiles\Share Files\obj\x86\Debug\Share Files.csproj.GenerateResource.Cache
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Share Files\bin\Debug\Recherche.exe
+C:\Users\Oussema\Documents\Visual Studio 2013\Projects\ShareFiles\Share Files\bin\Debug\Recherche.pdb
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Share Files\bin\Debug\Share Files.exe.config
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Share Files\bin\Debug\Share Files.exe
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Share Files\bin\Debug\Share Files.pdb
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Share Files\bin\Debug\EnvoieDeFichiers.exe
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Share Files\bin\Debug\Etiquette.exe
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Share Files\bin\Debug\Login.exe
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Share Files\bin\Debug\MyClasses.dll
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Share Files\bin\Debug\Recherche.exe
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Share Files\bin\Debug\OAuthProtocol.dll
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Share Files\bin\Debug\Dropbox.Api.dll
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Share Files\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Share Files\bin\Debug\EnvoieDeFichiers.pdb
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Share Files\bin\Debug\Etiquette.pdb
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Share Files\bin\Debug\Login.pdb
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Share Files\bin\Debug\MyClasses.pdb
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Share Files\bin\Debug\Recherche.pdb
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Share Files\bin\Debug\OAuthProtocol.pdb
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Share Files\bin\Debug\Dropbox.Api.pdb
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Share Files\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Share Files\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Share Files\obj\x86\Debug\Share Files.csprojResolveAssemblyReference.cache
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Share Files\obj\x86\Debug\App.baml
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Share Files\obj\x86\Debug\MainWindow.baml
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Share Files\obj\x86\Debug\App.g.cs
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Share Files\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Share Files\obj\x86\Debug\Share Files_MarkupCompile.cache
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Share Files\obj\x86\Debug\Share Files.g.resources
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Share Files\obj\x86\Debug\Share_Files.Properties.Resources.resources
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Share Files\obj\x86\Debug\Share Files.csproj.GenerateResource.Cache
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Share Files\obj\x86\Debug\Share Files.exe
+C:\Users\ahmed\Desktop\version finale\ShareFiles\Share Files\obj\x86\Debug\Share Files.pdb
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Share Files\bin\Debug\Share Files.exe.config
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Share Files\obj\x86\Debug\Share Files.exe
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Share Files\obj\x86\Debug\Share Files.pdb
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Share Files\bin\Debug\Share Files.exe
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Share Files\bin\Debug\Share Files.pdb
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Share Files\bin\Debug\EnvoieDeFichiers.exe
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Share Files\bin\Debug\Etiquette.exe
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Share Files\bin\Debug\Login.exe
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Share Files\bin\Debug\MyClasses.dll
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Share Files\bin\Debug\Recherche.exe
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Share Files\bin\Debug\OAuthProtocol.dll
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Share Files\bin\Debug\Dropbox.Api.dll
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Share Files\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Share Files\bin\Debug\EnvoieDeFichiers.pdb
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Share Files\bin\Debug\Etiquette.pdb
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Share Files\bin\Debug\Login.pdb
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Share Files\bin\Debug\MyClasses.pdb
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Share Files\bin\Debug\Recherche.pdb
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Share Files\bin\Debug\OAuthProtocol.pdb
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Share Files\bin\Debug\Dropbox.Api.pdb
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Share Files\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Share Files\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Share Files\obj\x86\Debug\Share Files.csprojResolveAssemblyReference.cache
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Share Files\obj\x86\Debug\App.baml
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Share Files\obj\x86\Debug\MainWindow.baml
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Share Files\obj\x86\Debug\App.g.cs
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Share Files\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Share Files\obj\x86\Debug\Share Files_MarkupCompile.cache
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Share Files\obj\x86\Debug\Share Files.g.resources
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Share Files\obj\x86\Debug\Share_Files.Properties.Resources.resources
+C:\Users\Oussema\Desktop\Share Files\version finale\ShareFiles\Share Files\obj\x86\Debug\Share Files.csproj.GenerateResource.Cache
+C:\Users\Oussema\Desktop\Soutenance\ShareFiles\Share Files\bin\Debug\Share Files.exe.config
+C:\Users\Oussema\Desktop\Soutenance\ShareFiles\Share Files\obj\x86\Debug\Share Files.exe
+C:\Users\Oussema\Desktop\Soutenance\ShareFiles\Share Files\obj\x86\Debug\Share Files.pdb
+E:\Oussema\Travail\PFE\Soutenance\ShareFiles\Share Files\bin\Debug\Share Files.exe.config
+E:\Oussema\Travail\PFE\Soutenance\ShareFiles\Share Files\obj\x86\Debug\Share Files.exe
+E:\Oussema\Travail\PFE\Soutenance\ShareFiles\Share Files\obj\x86\Debug\Share Files.pdb

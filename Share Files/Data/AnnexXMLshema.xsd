@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="AnnexXMLshema"
+    targetNamespace="http://tempuri.org/AnnexXMLshema.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/AnnexXMLshema.xsd"
+    xmlns:mstns="http://tempuri.org/AnnexXMLshema.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+
+  <!-- definition of simple elements -->
+  <xs:element name="nom" type="xs:string"/>
+  <xs:element name="path" type="xs:string"/>
+  <xs:element name="createur" type="xs:string"/>
+  <xs:element name="commentaire" type="xs:string"/>
+
+  <!-- definition of complex elements -->
+  <xs:element name="fichier">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="nom"/>
+        <xs:element ref="path"/>
+        <xs:element ref="createur"/>
+        <xs:element ref="commentaire"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="fichiers">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="fichier"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>
